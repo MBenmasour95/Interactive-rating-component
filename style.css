@@ -35,7 +35,7 @@ button {
 /* === Layout === */
 /* === Main === */
 .wrapper {
-  background-color: hsl(213, 19%, 18%);
+  background-color: hsl(212, 21%, 16%);
   width: 400px;
   height: 400px;
   display: flex;

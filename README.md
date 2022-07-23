@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ Here](https://your-solution-url.com)
+- Solution URL: [ Here](https://mbenmasour95.github.io/Interactive-rating-component/)
 - Live Site URL: [ Here](https://your-live-site-url.com)
 
 ## My process
@@ -43,5 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MBenmasour95](https://www.frontendmentor.io/profile/MBenmasour95)
